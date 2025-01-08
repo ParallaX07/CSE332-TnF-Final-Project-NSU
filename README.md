@@ -44,3 +44,7 @@ There are 3 instruction formats:
 | R | SLL | 0000 | 110 | 000 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 10 | 1 |
 | R | SLT | 0000 | 111 | 111 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 10 | 1 |
 | I | SW | 0110 | xxx | 010 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 00 | 0 |
+
+
+#### **Datapath:**
+![Datapath](https://i.ibb.co.com/3sfHwN4/datapath.png)
